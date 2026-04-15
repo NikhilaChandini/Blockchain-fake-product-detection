@@ -37,7 +37,7 @@ The system demonstrates how blockchain technology can be applied to solve real-w
 
 ## Screenshots
 
-Blockchain project snapshots.pdf
+https://github.com/NikhilaChandini/Blockchain-fake-product-detection/blob/b6df53ed9ff88ec8bf6924d30d2d914fe0aeefba/Blockchain%20project%20snapshots.pdf
 
 ---
 
