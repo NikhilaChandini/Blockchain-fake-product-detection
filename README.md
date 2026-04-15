@@ -33,6 +33,13 @@ The system demonstrates how blockchain technology can be applied to solve real-w
 3. Users scan the QR code to verify authenticity
 4. The system validates and displays product details in real time
 
+---
+
+## Screenshots
+
+
+
+---
 
 ## Business Impact
 
