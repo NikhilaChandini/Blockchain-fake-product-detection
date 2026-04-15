@@ -37,7 +37,7 @@ The system demonstrates how blockchain technology can be applied to solve real-w
 
 ## Screenshots
 
-
+Blockchain project snapshots.pdf
 
 ---
 
